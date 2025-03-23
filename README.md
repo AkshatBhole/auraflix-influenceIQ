@@ -65,3 +65,6 @@ streamlit run app.py
 - User feedback mechanism for rating quality improvement
 - Mobile app development
 - API for third-party integrations
+
+- ## Logo
+![logoauraflix](https://github.com/user-attachments/assets/47e5e6c2-5bdd-4f19-8439-cd1aef0ad44b)
